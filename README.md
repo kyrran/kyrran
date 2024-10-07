@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 I'm Kangle, currently pursuing an MSc in Visual Computing and Robotics at Imperial College London. I graduated with First Class honors in BSc Computing Science from the University of Nottingham in 2023 and also spent a semester on exchange at City University of Hong Kong in 2022. These academic experiences have provided me with a diverse perspective on computing, allowing me to adapt to different environments and appreciate various cultures around the world.
+😄 I'm Kangle, currently pursuing an MSc Computing in Visual Computing and Robotics at Imperial College London. I graduated with First Class honors in BSc Computing Science from the University of Nottingham in 2023 and also spent a semester on exchange at City University of Hong Kong in 2022. These academic experiences have provided me with a diverse perspective on computing, allowing me to adapt to different environments and appreciate various cultures around the world.
 
 
 🔭 One of my biggest personal projects is [Learning Tethered Drone Agile Perching](https://github.com/kyrran/gym-pybullet-drones), where I developed a reinforcement learning controller to master agile perching strategies for a tethered drone, specifically using SAC learning from demonstrations. The project includes a complete simulation workflow and real-world hardware experiments, all yielding successful results.
