@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🔭 One of my biggest personal projects is [Learning Tethered Drone Agile Perching](https://github.com/kyrran/gym-pybullet-drones), where I developed a reinforcement learning controller to master agile perching strategies for a tethered drone, specifically using SAC learning from demonstrations. The project includes a complete simulation workflow and real-world hardware experiments, all yielding successful results.
 
-🔭 Another project is [Teach a Lawnmower How to Write: Building an Obstacle Avoidance System in Multiple Operation Modes]([https://github.com/kyrran/gym-pybullet-drones](https://github.com/kyrran/hrp)) This project delivers an obstacle avoidance system providing varying degrees of user interaction and autonomy for the Husqvarna 430x lawnmower, offering a foundation for future applications in similar products.
+🔭 Another project is [Teach a Lawnmower How to Write: Building an Obstacle Avoidance System in Multiple Operation Modes](https://github.com/kyrran/hrp) This project delivers an obstacle avoidance system providing varying degrees of user interaction and autonomy for the Husqvarna 430x lawnmower, offering a foundation for future applications in similar products.
 
 👯 Feel free to explore my repositories and connect with me on GitHub for more exciting projects and collaborations!
 
